@@ -1,0 +1,10 @@
+.pokemon-Card{
+    width: 290px;
+    background-color: grey;
+    height: 200px;
+}
+.types{
+    display: flex;
+    justify-content: space-around;
+    font-size: large;
+}
